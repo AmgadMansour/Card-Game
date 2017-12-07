@@ -1,0 +1,6 @@
+To run the Game 
+________________
+1- Download the code
+2- Import the zipped project file [ yugioh ] on Eclipse
+3- Open the  [ start.java ] class found in [ eg.edu.guc.yugioh.gui ].
+4- Enjoy the Game.
